@@ -2,7 +2,7 @@ using System;
 public class Program {
   public static void Main (string[] args) {
     /* We are declaring the string var str to be a place holder for the unit test 1 */
-    string str = "Massa vitae tortor condimentum lacinia quis vel eros donec ac.";
+    string str = "Platea dictumst quisque sagittis purus sit amet volutpat consequat mauris.";
 
     /* We creating var with a ternary operator to 
        determine if the string length passed or failed */
